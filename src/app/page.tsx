@@ -1,8 +1,9 @@
+import Image from "next/image";
 
 export default function Home() {
   return (
     <div>
-      C est Essaid Tabia
+      C'est Tabia
     </div>
   );
 }
